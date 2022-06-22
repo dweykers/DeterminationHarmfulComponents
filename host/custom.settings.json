@@ -1,0 +1,10 @@
+﻿{
+  "Settings": {
+    "TrainDataPath" : "C:\\DeterminationHarmfulComponents\\host\\TrainData",
+    "Language" : "rus",
+    "ApiKey" : "2b155add42df930fb06bffb3ea964a5e92ab4b439b4cc69f2170b0f0ad0bc728"
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Database=product_data;Username=postgres;Password=lorenso159357"
+  }
+}
